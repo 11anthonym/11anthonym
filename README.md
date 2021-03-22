@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @11anthonym
-- 👀 I’m interested in ... learning more about deveolopment
+- 👀 I’m interested in ... learning more about programming and deveolopment
 - 🌱 I’m currently learning ... python, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
